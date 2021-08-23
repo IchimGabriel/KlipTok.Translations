@@ -1,0 +1,162 @@
+{
+    // Components 
+	
+    // Clip
+    "Recorded": "Inregistrat {0}", // {0} timpul relativ care a trecut de cand a fost inregistrat clipul: "in urma cu 3 zile"
+    "Likes": "Likes",
+    "Comments": "Comentarii",
+    "ClipViews": "Vizualizari",
+    "ShareThisClip": "Distribuie clipul",
+    "KlipTokContentPlaceholder": "KlipTok Introduceti continut",
+    "ClippedByFormat": "Creat de {0}", // {0} numele celui care a creat clipul
+    "PreviewThumbnailForClip": "Previzualizare clip '{0}'", // Text alternativ pentru clip.  {0} este titlul clipului
+	
+    // Comments
+    "ByLineFormat": "La {0} {1} a scris:", // {0} timpul relativ care a trecut de cand a comentat , {1} numele celui care a comentat
+    "Reply": "Raspuns",
+	
+    // Login View
+    "DarkMode": "Dark Mode",
+    "LoginWithTwitch": "Login cu Twitch",
+    "Logout": "Logout",
+	
+    // Header
+    "SearchForChannel": "Cautare Streamer...", // Depreciat / iesit din uz
+    "SearchNotFoundFormat": "{0} nu a fost gasit", // {0} termenul cautat nu a fost gasit
+	
+    // Search and Search Results
+    "SearchKlipTok": "Cautare KlipTok...",
+    "SearchAllOfKlipTok": "Cautare KlipTok pentru {0}", // {0} termenul folosit pentru a cauta clipul
+    "SearchResults": "Rezultate cautare",
+    "SearchedKlipTokAndFoundTemplate": "Am cautat KlipTok pentru \"{0}\" si am gasit:", // {0} termenul cautat
+    "StreamerPlayingCategoryTemplate": "{0} ruleaza in {1}", // {0} numele celui care face stream, {1} este categoria vizionata,
+    "SearchedClipTitlesAndFoundTemplate": "Resultate pentru titlul clipului: {0}", // {0} termenul cautat pentru titlul clipului
+    "AdvancedFiltering": "Cautare avansata",
+    "IncludeChannels": "Include aceste canale",
+    "ExcludeChannels": "Exclude aceste canale",
+    "FilterButton": "Cauta", // Butonul de cautare avansata
+    "PreviousPage": "Pagina anterioara",
+    "NextPage": "Pagina urmatoare",
+	
+    // Sidebar
+    "SuggestedStreamers": "Sugestii Streamers",
+    "FollowedStreamers": "Followed Streamers",
+    "AllStreamers": "All Streamers",
+    "About": "About",
+    "Close": "Inchide",
+	
+    // Streamer Page
+    "ClickToFollow": "Click to Follow",
+    "ClickToUnfollow": "Click to Unfollow",
+    "ActionOnTwitchTemplate": "{0} on Twitch", // {0} va fi inlocuit cu "Follow" sau "Unfollow" se citeste "Follow on Twitch"
+    "LiveOnTwitch": "Live pe Twitch acum!",
+    "ProfilePicTemplate": "{0} poza de profil", // {0} este numele afisat al Streamer-ului
+    "TotalClipsOnKlipTok": "Total clipuri pe KlipTok",
+    "TotalLikesAcrossAllClips": "Total Like-uri pentru toate clipurile",
+    "TotalCommentsAcrossAllClips": "Total comentarii pentru toate clipurile",
+    "TotalViewsAcrossAllClips": "Total vizionari pentru toate clipurile",
+    "LastClipAdded": "Ultimul clip adaugat:",
+    "LastClip": "Ultimul clip:",
+    "NoProfilePicAvailable": "Poza de profil nu este distribuita",
+    "DateRangePicker_Start": "Start Date", // Eticheta Start Date pentru cautare pe pagina streamer-ului
+    "DateRangePicker_End": "End Date", // Eticheta End Date pentru cautare pe pagina streamer-ului
+    "ShareStreamer": "Share Streamer", // The tooltip for the Share button on the streamer page
+	
+    // Layout
+    "PublicBeta": "PUBLIC BETA",
+    "LoggedOutFromKlipTokAndTwitch": "Logged Out KlipTok si Twitch",
+    "LoginToKlipTokWithTwitch": "Login la KlipTok cu Twitch",
+    "AuthenticationIsNoLongerValid": "Datele de autentificare la Twitch si KlipTok nu mai sunt valabile. Va rugam sa introduceti datele de acces KlipTok cu Twitch pentru a continua.",
+    "Loading": "Se incarca...",
+	
+    // Errors
+    "ErrorWhileLoading": "Eroare aparuta la incarcare.",
+    "RetryButton": "Retry",
+	
+    // Follows page
+    "TwitchChannelsIFollow": "Twitch Streamers I Follow",
+    "NotLoggedIn": "Nu putem afisa conturile pe care le urmariti pe Twitch, deoarece nu sunteti conectat cu un cont Twitch.  Va rugam sa va conectati si sa sincronizati streamer-ii urmariti cu KlipTok pentru a accesa aceasta functionalitate.",
+	
+    // Home Page
+    "DiscoverPopularClips": "Discover Popular Clips",
+    "DiscoverClips": "Discover Clips",
+    "InsertCoin": "Insert Coin",
+    "MyFavoriteChannels": "Clipuri din canalele urmarite de mine", // Tooltip for the Following tab
+    "Favorites": "Following", // Renamed on April 27, 2021 to "Following"
+    "ClipsILike": "Clips I Like", // clipuri indragite de mine
+    "LikedClips": "Liked Clips", // clipuri carora le-am dat Like
+    "UserProfile": "User Profile",
+	
+    // Liked Clips
+    "NoLikedClips": "Nu ti-a placut nici un clip pe KlipTok pana acum!",
+    "TryLikeButtonTemplate": "Apasa pe inimioara {0} de sub clip pentru 'Like' si iti va fi inregistrata optiunea pentru a gasi clipul mai usor in viitor", //  {0} pictograma inimioara
+	
+    // User Profile
+    "DoesNotKeepSeparateUserInformation": "KlipTok nu pastreaza informatii separate fata de contul de Twitch, si a fost construit ca un serviciu de imbunatatire pentru clipurile Twitch.",
+    "AutoPlayVideosOnScroll": "Auto-play videos on scroll",
+    "IndexClipsOfMyChannel": "Index my Clips",
+    "OptedOutDateTemplate": "Opted out of indexing on: {0}", // {0} is the datestamp of when opt-out was recorded 
+    "SaveMyChanges": "Salveaza schimbarile",
+    "SyncFollowersWithKlipTok": "Sincronizeaza canalele urmarite cu KlipTok",
+    "MutedChannels": "Canale dezactivate",
+    "Channel": "Canal video",
+    "MutedUntil": "Dezactivat pana la",
+    "RightToForget": "Dreptul de a fi sters", // Right to forget - stergerea completa a datelor de utilizator
+    "DangerZone": "[ Zona Periculoasa ]", // Eticheta indica faptul ca schimbarile urmatoarelor date personale vor fi iremediabile (sterse din aplicatie)
+    "RightToForgetDescription": "Este dreptul dumneavoastra sa va fie sterse toate datele salvate pe KlipTok.  Prin apasarea butonului se confirma stergerea datelor, KlipTok va sterge toate comenturile, Like-urile, si clipurile dumneavoastra.",
+    "RemoveMyContentFromKlipTok": "Sterge continut personal din KlipTok",
+    "ForgottenAsOfTemplate": "Sters incepand cu: {0}", // {0} data si timpul la care a avut loc stergerea datelor
+	
+    // Single Clip Page
+    "MissingClipError": "KlipTok nu are inregistrat acest clip. Posibil sa nu existe sau canalul Twitch a optat sa restrictioneze continutul pe KlipTok a acestui clip.",
+    "LikedBy": "Liked By:", 
+    "UserLikedTimeTemplate": "{0} liked {1}", // {0} este numele celui care a dat like si {1} este data la care a dat like
+    "InReplyToTemplate": "Raspuns la: {0}", // {0} este numele user-ului caruia ii raspundem
+    "EnterNewComment": "Adauga un coment...",
+    "LoginWithTwitchToComment": "Login cu Twitch pentru a comenta",
+    "CommentButton": "Coment",
+	
+    // Streamer Page
+    "MuteForLabel": "Dezactivat pentru:",
+    "StreamerIsMutedUntilTemplate": "Streamer dezactivat pana la: {0}", // {0} data la care dezactivarea se sfarseste
+    "NoMute": "Activat", // Activeaza streamer-ul pentru a putea urmari continul clipurilor
+    "Forever": "Dezactivat permanent", // Eticheta pentru "Dezactivat permanent" 
+    "SortByLabel": "Filtreaza dupa:",
+    "Views": "Vizualizari", // Filtrare dupa vizualizari
+    "Score": "Score", // KlipTok algorithm - indica scorul acestui clip
+    "Latest": "Recent", // Filtreaza afisand cel mai recent clip fiind primul
+    "ClipsFromLabel": "Clips from:", // Eticheta de deasupra filtrului de cautare dupa data
+    "SearchButton": "Cauta", // Text afisat pe butonul de cautare pentru filtrul dupa data
+    "ResetButton": "Reseteaza", // Text afisat pe butonul de resetare pentru filtrul dupa data
+    "NoClipsAvailable": "Nu exista clipuri disponibile",
+    "AddClipsForThisStreamer": "Adauga clipuri pentru acest Streamer",
+    "NotifyOnOptIn": "Va rugam sa luati nota: daca adaugati clipuri ale acestui streamer, va rugam frumos sa-l instiintati de adaugarea clipurilor la acest site.  Noi nu avem nici o modalitate de a instiinta broadcaster-ul.",
+	
+    // Streamer Dashboard
+    "Live": "LIVE", // Text for the red live indicator.  Should be all capitalized
+    "ClipsTab": "Clipuri", // Eticheta pentru tab-ul de clipuri la partea de sus a paginii Streamer-ului
+    "DashboardTab": "Dashboard", // Label for the dashboard tab on the top of the Streamer page 
+    "ClipsCreatedLast90Days": "Clipuri create in ultimele 90 de zile", // Etichete pentru graficul de afisare al clipurilor create in ultimele 90 de zile 
+    "ClipsCreatedPerWeek": "Clipuri create pe saptamana", // Etichete pentru graficul de afisare al clipurilor create saptamanal
+    "ClipsByDayOfWeek": "Clipuri create zilnic", // Etichete pentru graficul de afisare al clipurilor create zilnic / pentru fiecare zi a saptamanii
+    "TitleDayCreated": "Day Created", // Titlu pentru clipuri cu ziua saptamanii - radar chart
+    "MostViewedClippers": "Most Viewed Clippers", // Eticheta in tabel pentru cel mai vizionat Clipper
+    "MostViewedCategories": "Most Viewed Categories", // Eticheta in tabel pentru cea mai vizionata categorie
+    "MostLikedClippers": "Most Liked Clippers", // Cel mai iubit dintre Clippers
+	
+    // Transcription Features
+    "ClipHasTranscription": "Acest clip are o traducere care poate fi gasita", // Hint pentru pictograma de traducere/transcriere
+    "SearchResultsFromTranscriptionSearch": "Rezultatele cautarii textului pentru traducerea clipului: {0}", // Antet rezultate cautare pentru acest clip.  {0} este textul cautat
+    "ClipTranscriptionByAssemblyAI": "Clip tradus de AssemblyAI:", // Traducerea clipului este atribuita aplicatiei AssemblyAI 
+	
+    // System Dashboard
+    "SystemStatusDashboard": "System Status Dashboard",
+    "SystemDashboardDescription": "Punem la dispozitie in mod deschis detalii despre cresterea KlipTok pentru a le putea examina.",
+    "TotalClips": "Numar total clipuri",
+    "ChannelsIndexed": "Canale indexate",
+    "NewChannelsToday": "Canale noi azi",
+    "TotalChannelsIdentified": "Total canale identificate",
+    "TotalClipsTranscribed": "Totalul clipurilor traduse",
+    "ClipsTranscribedByDate": "Clipuri traduse pe zile",
+    "ClipsByDate": "Clipuri dupa Data"
+}
